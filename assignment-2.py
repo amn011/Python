@@ -8,7 +8,7 @@
 letter=''' good morning <name>, you
 got selecte for the role of SDE in our 
 company. hope you join us as soon as
-possible. plz reply back before <date> .
+possible. plz reply back to us before <date> .
 thanks.'''
 
 name= input("enter the name")
