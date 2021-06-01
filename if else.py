@@ -5,6 +5,6 @@ c=(a+b)
 print("sum is ",c)
 
 if c>=9:
- print('it is two digit number')
+ print('it is a two digit number')
 else:
- print('it is single digit number')
+ print('it is a single digit number')
