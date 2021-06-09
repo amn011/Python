@@ -1,6 +1,6 @@
 myDICT= {
 "name": "Aman",
-"course": "B.tech",
+"course": "B.Tech",
 "marks": "[64, 74, 89]",
 1:2
 }
