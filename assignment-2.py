@@ -1,7 +1,7 @@
 #1st problem:
 
  name= input("enter your name")
- print("Good afternoon, "+name)
+ print("Good Afternoon, "+name)
 
 #2nd problem:
 
