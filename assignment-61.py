@@ -2,4 +2,4 @@ list=["sachin", "rahul", "aman", " sushant", "sumit"]
 
 for name in list:
     if(name.startswith("s")):
-        print("hello  "+ name)
+        print("Hello  "+ name)
